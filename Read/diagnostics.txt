@@ -1,11 +1,6 @@
 diagnostics
-total_items: 492
-missing_txt_created: 16
-task13_rename_fixes: 5
-bad_filenames:
-- Задание 13/13_Линейныенеравенства1.png
-- Задание 13/13_Линейныенеравенства2.png
-- Задание 13/13_Линейныенеравенства3.png
-- Задание 13/13_Линейныенеравенства4.png
-- Задание 13/13_Линейныенеравенства5.png
-- Задание 24/Снимок экрана 2026-03-02 224150.png
+total_items: 487
+renamed_files: 932
+created_missing_txt: 16
+collisions_skipped: 1
+source_variations_file: название всех под видов 25 задач.txt
